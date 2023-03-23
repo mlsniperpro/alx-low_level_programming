@@ -6,7 +6,7 @@
 
 #include "stdio.h"
 
-void main(void)
+void print_alphabet_x10(void)
 {
     int i;
     char c;
