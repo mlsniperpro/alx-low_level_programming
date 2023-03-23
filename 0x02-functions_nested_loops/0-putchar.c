@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int print_putchar(void)
 {
     char *str = "_putchar";
     int i;
